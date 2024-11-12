@@ -32,7 +32,7 @@ make
 
 ### Running the Program
 ```bash
-./gatorTicketMaster <input_file>
+python3 gatorTicketMaster.py <input_file>.txt
 ```
 or
 ```bash
