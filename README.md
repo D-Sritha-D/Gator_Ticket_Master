@@ -7,9 +7,8 @@ A seat booking and management system for Gator Events implemented using Red-Blac
 gator_ticket_master/
 ├── gatorTicketMaster.py    # Main program file
 ├── Makefile                # Build configuration
-├── README.md              # This file
-└── test_files/            # Test input files
-    └── test1.txt          # Sample test file
+├── README.md               # This file
+└── test1.txt               # Sample test file
 ```
 
 ## Requirements
