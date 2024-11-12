@@ -135,7 +135,7 @@ Quit()
 EOL
 
 # Run test
-./gatorTicketMaster test1.txt
+python3 gatorTicketMaster.py test1.txt
 ```
 
 2. Waitlist Test:
@@ -153,7 +153,7 @@ Quit()
 EOL
 
 # Run test
-./gatorTicketMaster test2.txt
+python3 gatorTicketMaster.py test2.txt
 ```
 
 ## Error Handling
