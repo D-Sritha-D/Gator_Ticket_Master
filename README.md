@@ -34,10 +34,6 @@ make
 ```bash
 python3 gatorTicketMaster.py <input_file>.txt
 ```
-or
-```bash
-python3 gatorTicketMaster.py <input_file>
-```
 
 ### Input File Format
 The input file should contain commands, one per line, in the following format:
